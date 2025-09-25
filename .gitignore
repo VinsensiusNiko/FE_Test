@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+.yarn/*
+.pnp.*
+.next/
+
+# build
+.next/
+out/
+dist/
+build/
+
+# env
+.env*
